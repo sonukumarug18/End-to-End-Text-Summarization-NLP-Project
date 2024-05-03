@@ -18,7 +18,7 @@
 Clone the repository
 
 ```bash
-https://github.com/sonukumarug18/End-to-End-Text-Summarization-NLP-Project-AWS-CICD-Deployment-with-Github-Actions.git
+https://github.com/sonukumarug18/End-to-End-Text-Summarization-NLP-Project.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
