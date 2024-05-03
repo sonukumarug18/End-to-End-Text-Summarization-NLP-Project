@@ -50,7 +50,6 @@ open up you local host and port
 
 ```bash
 Author: Sonu Kumar
-Data Scientist
 Email: sonukumrug18@gmail.com
 
 ```
